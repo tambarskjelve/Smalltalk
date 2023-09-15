@@ -1,1 +1,1 @@
-Package { #name : #Microblog }
+Package { #name : #MicroBlog }
