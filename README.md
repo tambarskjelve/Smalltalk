@@ -1,1 +1,1 @@
-# Smalltalk
+# Smalltalk## Installation```Metacello new	repository: 'github://tambarskjelve/Smalltalk:main/src';	baseline: 'Smalltalk';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfSmalltalk asClass loadLepiter```
